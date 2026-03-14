@@ -220,7 +220,7 @@ MAX_TOKENS=2000
 
 ## Author
 
-**Vansaj Rawat** — Final Year B.Tech Student
+**Vansaj Rawat**
 
 Built as a portfolio project to demonstrate RAG pipelines, LangChain, FastAPI, and Chrome Extension development.
 
